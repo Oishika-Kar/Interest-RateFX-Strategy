@@ -1,4 +1,4 @@
-# Dynamic-Filtering-and-State-Contingent-Signal-Generation-USD-EUR-Trading-Strategy-based
+# Dynamic-Filtering-and-State-Contingent-Signal-Generation-USD-EUR-Trading-Strategy
 This project focuses on designing a trading strategy for the USD/EUR currency
 pair using interest rate differentials. The approach involves fitting a filter with a specified gain,
 computing standard deviations of filter errors, and generating state-contingent signals based on
